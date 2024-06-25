@@ -2,3 +2,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adattack&layout=compact&theme=light)
 
+![Visitor Count](https://profile-counter.glitch.me/github/count.svg)
